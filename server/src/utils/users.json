@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "jim@gmail.com",
+      "number": "221122",
+      "secret": "secret1"
+    },
+    {
+      "email": "jam@gmail.com",
+      "number": "830347",
+      "secret": "secret2"
+    },
+    {
+      "email": "john@gmail.com",
+      "number": "221122",
+      "secret": "secret3"
+    },
+    {
+      "email": "jams@gmail.com",
+      "number": "349425",
+      "secret": "secret4"
+    },
+    {
+      "email": "jams@gmail.com",
+      "number": "141424",
+      "secret": "secret5"
+    },
+    {
+      "email": "jill@gmail.com",
+      "number": "822287",
+      "secret": "secret6"
+    },
+    {
+      "email": "jill@gmail.com",
+      "number": "822286",
+      "secret": "secret7"
+    }
+  ]
+}
