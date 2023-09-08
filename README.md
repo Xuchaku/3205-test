@@ -17,7 +17,7 @@
 
 ## Развертывание
 
-- npm clone https://github.com/Xuchaku/3205-test.git
+- git clone https://github.com/Xuchaku/3205-test.git
 - cd ./client && npm i
 - cd ./server && npm i
 
