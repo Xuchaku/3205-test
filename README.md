@@ -4,11 +4,14 @@
 
 - NodeJS, Express, Typescript
 
+Requirements: NodeJS(v18.17.1^)
+
 ## Технологии фронтенд
 
 - Vite
 - React, Typescript
 - Chackra UI
+- Formik
 - Yup
 
 ## Особенности
